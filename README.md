@@ -17,3 +17,5 @@ this is only the first version, so its janky and needs to be set up correctly, b
 - maximise sparx maths and minimize bing AI (if you have multiple monitors, make sure both are on your primary one
 - make sure there are no other windows visible on screen except sparx and cheetoSolver
 - click solve and dont touch your mouse or keyboard until its sent the request
+
+this is mostly designed for kids, so i put a how to use file in here which makes it super easy to use lmao
