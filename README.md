@@ -1,6 +1,8 @@
 # cheetoSolver
 cheetoSolver - an AI macro to help you with sparx maths
 
+![banner](https://github.com/Cheet0sDelet0s/cheetoSolver/assets/152819325/995de2ea-5ce8-404f-9e35-8a429816e4fd)
+
 i hate sparx maths, and you probably do too. i was bored and decided to make a little macro which takes a screenshot of the screen, sends it to bing AI and gets you your answer.
 
 now, because of limitations with bing/chatgpt, quite a few types of questions cannot seemed to be handled, usually ones where there are many steps to working the question out, and where it has to read lots of charts and graphs, stuff like that. it is pretty good at word equations and stuff that can be worked out with formulas. 
