@@ -1,0 +1,45 @@
+                   __________________
+	         /  	*                 *	   \
+--------------|   *      * hello! *       *    |---------------------
+                 \__________________/
+
+
+welcome to cheetoSolver!
+
+if you dont know how to set up python stuff, this guide is for you!
+
+cheetoSolver only works on Windows, sorry if you are on anything else!
+
+
+--1-- install python --
+
+go to the Microsoft Store (press the Windows Key and type Microsoft Store and press Enter) and search Python. click on the first result (Python 3.11 at the time of writing this), and click Install.
+
+
+--2-- install requirements.txt --
+
+once you have downloaded python, have the folder with cheetoSolver open and right click on empty space in the folder, not on one of the items inside. in the menu that has appeared, click "Open in Terminal".
+
+this will open up Command Prompt. it should say on the left the filepath of the cheetoSolver folder. now you need to type in the command "pip install -r requirements.txt" (without the speech marks of course).
+run the command by pressing enter, and it should start to download all of the required libraries for cheetoSolver.
+
+--3-- run the program --
+
+once you have installed requirements.txt, the program will work fine once you run it. double-click cheetoSolver - run me.py to run the GUI. if it asks you what app you want to run it with, choose python.
+
+--4-- get everything else ready --
+
+you need to be using Google Chrome for this to work. make sure it is set as your default browser. now open up sparx maths and maximise it (dont go full screen though). now you need to open a new window
+of chrome, not a tab. you also may be wanting to have this window on a personal account, not a school account, as bing AI, the thing that does the working out, can be blocked on school accounts. now on this
+new window go to www.bing.com/chat, and log in to a microsoft account. bing chat does not work when your safesearch is set to strict btw. now minimise that window with bing chat, get your sparx maths up and NOW
+you can start doing some stuff. grab the cheetoSolver window, press Solve and dont touch your mouse or keyboard until Bing has given you the answer. and you're done!
+
+---! important notices !---
+
+bing does not work for every kind of question. it sucks at doing anything involving tables and images in general. it may also read the text of the question incorrectly, by not including certain things or missing out
+important stuff. it works best for things like word problems and stuff that can be solved with formulas and stuff like that. so its not gonna completely solve everything, but can still be usefull.
+
+another thing is that teachers may get suspicious and stuff, so be careful.
+
+ok bye have fun botting lol
+__________________________________________________________________________________________
